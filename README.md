@@ -48,12 +48,13 @@ An interactive Streamlit dashboard that analyzes user behavior and monetization 
 
 ## 🛠️ Tech Stack
 
-| Tool      | Purpose              |
-| --------- | -------------------- |
-| Streamlit | Interactive frontend |
-| Pandas    | Data processing      |
-| Plotly    | Visualizations       |
-| NumPy     | Numeric calculations |
+| Tool       | Purpose                      |
+| ---------- | ---------------------------- |
+| Streamlit  | Interactive frontend UI      |
+| Pandas     | Data manipulation            |
+| Plotly     | Interactive charts           |
+| NumPy      | Numerical operations         |
+| Matplotlib | Static/backup visualizations |
 
 ---
 
